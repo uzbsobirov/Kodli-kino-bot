@@ -1,1 +1,3 @@
-from . import buttons
+from . import (
+buttons, channels
+)
